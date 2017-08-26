@@ -6,6 +6,4 @@
 
 user 'nkardile'
 user 'seconduser'
-user 'gituser'
-user 'saurabh'
-user 'chetan'
+user 'jenkinsuser'
